@@ -1,0 +1,29 @@
+{
+  "name": "breadlauncher",
+  "version": "1.0.0",
+  "description": "The official minecraft launcher for BreadCraft",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrlmza/breadlauncher.git"
+  },
+  "keywords": [
+    "minecraft",
+    "launcher",
+    "modded",
+    "free",
+    "qrlmza",
+    "wehosting",
+    "MIT"
+  ],
+  "author": "qrlmza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qrlmza/breadlauncher/issues"
+  },
+  "homepage": "https://github.com/qrlmza/breadlauncher#readme"
+}
